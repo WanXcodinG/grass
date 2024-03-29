@@ -16,7 +16,7 @@ CAPTCHA_PARAMS = {
     "captcha_type": "v2",
     "invisible_captcha": False,
     "sitekey": "6LdyCj0pAAAAAFvvSTRHYOzddUPMPcH232u7a9e0",
-    "captcha_url": "https://app.getgrass.io/register"
+    "captcha_url": "https://app.getgrass.io/register/?referralCode=flbJ2Mwhqevuq2S"
 }
 
 

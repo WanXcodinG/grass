@@ -1,9 +1,5 @@
 # Grass Auto Reger&Farm 🔹
 
-
-Discover the latest `<crypto/>` moves in my Telegram Channel:
-
-
 Bot can be used to create accounts and farm points on [grass.io](https://app.getgrass.io/register/?referralCode=flbJ2Mwhqevuq2S)
 ## Quick Start 📚
    1. To install libraries on Windows click on `INSTALL.bat` (or in console: `pip install -r requirements.txt`).
